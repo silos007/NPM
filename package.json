@@ -1,6 +1,5 @@
 {
   "name": "burger",
-  "version": "1.1.30",
   "private":false,
   "description": "it's a file browsing system",
   "main": "index.js",

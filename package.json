@@ -1,7 +1,7 @@
 {
   "name": "burger",
   "version": "1.1.1",
-  "private":false,
+  "private":true,
   "description": "it's a file browsing system",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
   "keywords": [
     "FILEBROWSING"
   ],
-  "author": "Veena Mishra",
+  "author":{
+    "name":"oolgaa"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/silos007/NPM/issues"

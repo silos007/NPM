@@ -24,9 +24,6 @@
     "url": "https://github.com/silos007/NPM/issues"
   },
   "homepage": "https://github.com/silos007/NPM#readme",
-  "devDependencies": {
-    "react-scripts": "^5.0.1"
-  },
   "browserslist": {
     "production": [
       ">0.2%",

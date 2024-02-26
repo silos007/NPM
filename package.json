@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "it's a file browsing system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silos007/NPM.git"
+  },
+  "keywords": [
+    "FILEBROWSING"
+  ],
+  "author": "Veena Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silos007/NPM/issues"
+  },
+  "homepage": "https://github.com/silos007/NPM#readme",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
